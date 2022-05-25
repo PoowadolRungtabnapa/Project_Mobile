@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Work\\Project_Mobile\\GroupChatApp-master\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Small\\.gradle\\caches\\transforms-2\\files-2.1\\3f960ce8b7a488080284486ae8f84638\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Project_Mobile\\GroupChatApp-master\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Small\\.gradle\\caches\\transforms-2\\files-2.1\\3f960ce8b7a488080284486ae8f84638\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Work\\Project_Mobile\\GroupChatApp-master\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Small\\.gradle\\caches\\transforms-2\\files-2.1\\3f960ce8b7a488080284486ae8f84638\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Work\\Project_Mobile\\GroupChatApp-master\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Small\\.gradle\\caches\\transforms-2\\files-2.1\\3f960ce8b7a488080284486ae8f84638\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Project_Mobile\\GroupChatApp-master\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Small\\.gradle\\caches\\transforms-2\\files-2.1\\3f960ce8b7a488080284486ae8f84638\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Work\\Project_Mobile\\GroupChatApp-master\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Small\\.gradle\\caches\\transforms-2\\files-2.1\\3f960ce8b7a488080284486ae8f84638\\play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]
